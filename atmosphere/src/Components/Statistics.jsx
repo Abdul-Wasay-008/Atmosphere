@@ -43,7 +43,7 @@ function Statistics() {
                 <div className="text-3xl pt-4">
                     31°
                 </div>
-                <div className="pt-4 mr-10 text-lg">
+                <div className="pt-[18px] mr-10 text-lg">
                     Thunderstorm
                 </div>
             </div>
@@ -54,7 +54,7 @@ function Statistics() {
                 <div className="text-3xl pt-4">
                     28°
                 </div>
-                <div className="pt-4 pr-2 text-lg">
+                <div className="pt-[18px] pr-2 text-lg">
                     Thunderstorm
                 </div>
             </div>
@@ -65,7 +65,7 @@ function Statistics() {
                 <div className="text-3xl pt-4">
                     28°
                 </div>
-                <div className="pt-4 pr-2 text-lg">
+                <div className="pt-[18px] pr-2 text-lg">
                     Thunderstorm
                 </div>
             </div>

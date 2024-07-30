@@ -9,6 +9,7 @@
 }
 
 body {
+    /* background-image: url('/home/abdul/Desktop/Atmosphere/atmosphere/public/Images/clouds.jpg'); */
     background-image: url('/home/abdul/Desktop/Atmosphere/atmosphere/public/Images/skyBG.jpg');
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center; /* Centers the image */
